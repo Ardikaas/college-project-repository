@@ -1,0 +1,11 @@
+.MODEL SMALL
+.CODE
+ORG 100h
+Proses :
+  MOV AL, 30H
+  MOV BL, 20H
+  ADD AL, BL
+
+  INT 21H
+  INT 20H
+END Proses

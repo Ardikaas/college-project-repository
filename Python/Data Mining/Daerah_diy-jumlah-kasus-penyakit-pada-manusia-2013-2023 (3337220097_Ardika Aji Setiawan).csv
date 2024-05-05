@@ -1,0 +1,19 @@
+﻿Kode,Bidang Urusan,Sub Elemen,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,Satuan,Sifat Data,Sumber Data
+1,Kesehatan,Demam Berdarah (DHF),939,1512,1010,n/a,1686,649,3399,3623,1187,2140,609,Kasus,Tahunan,Dinas Kesehatan
+2,Kesehatan,Hepatitis,20,220,222,71,95,91,208,n/a,335,417,556,Kasus,Tahunan,Dinas Kesehatan
+3,Kesehatan,Malaria,134,87,114,95,86,63,20,9,27,158,91,Kasus,Tahunan,Dinas Kesehatan
+4,Kesehatan,Tuberkulosis,1634,2482,2683,2956,732,3772,1577,2606,3038,5374,6172,Kasus,Tahunan,Dinas Kesehatan
+5,Kesehatan,AIDS,30,1166,3078,209,27,1647,1726,1800,1906,2050,2212,Kasus,Tahunan,Dinas Kesehatan
+6,Kesehatan,HIV,81,1425,1230,542,324,4781,4586,5534,5954,6784,7446,Kasus,Tahunan,Dinas Kesehatan
+7,Kesehatan,Campak,67,779,778,669,720,13,6,n/a,29,62,247,Kasus,Tahunan,Dinas Kesehatan
+8,Kesehatan,Tetanus,n/a,22,3,8,7,4,39,n/a,16,135,43,Kasus,Tahunan,Dinas Kesehatan
+9,Kesehatan,Diare,66526,34387,35157,52961,17935,68043,59591,24142,21534,22124,34530,Kasus,Tahunan,Dinas Kesehatan
+10,Data Vertikal Badan Pusat Statistik,Jumlah Penduduk Usia 0-14 Tahun,787034,795325,803306,810186,816353,822447,828296,748757,750317,812534,n/a,Orang,Tahunan,Badan Pusat Statistik
+11,Data Vertikal Badan Pusat Statistik,Jumlah Penduduk Usia 15-64 Tahun,2476855,2507161,2536556,2565765,2594209,2620999,2646038,2523225,2551427,2784844,n/a,Orang,Tahunan,Badan Pusat Statistik
+12,Data Vertikal Badan Pusat Statistik,Jumlah Penduduk Usia di atas 65 Tahun,330965,334630,339314,344961,351605,359426,368598,396737,411152,424438,n/a,Orang,Tahunan,Badan Pusat Statistik
+13,Pekerjaan Umum dan Penataan Ruang,Volume Sampah yang Ditangani,399.88,405.34,405.34,422.14,549.74,583.80,583.80,772.72,893.53,757.72,756,Ton/Hari,Tahunan,Dinas Pekerjaan Umum Perumahan dan Energi Sumber Daya Mineral
+14,Pekerjaan Umum dan Penataan Ruang,Volume Produksi Sampah,668.33,637.91,637.91,644.16,659.69,644.69,644.69,1366.79,1133.94,1231.55,1231.55,Ton/Hari,Tahunan,Dinas Pekerjaan Umum Perumahan dan Energi Sumber Daya Mineral
+15,Data Vertikal Kepolisian Republik Indonesia Daerah,Jumlah Kasus Narkoba,336,389,493,493,385,434,511,270,357,464,631,Kasus,Tahunan,Kepolisian Republik Indonesia Daerah
+16,Data Vertikal Kepolisian Republik Indonesia Daerah,Jumlah Kasus Seksual,39,95,99,112,23,26,105,109,109,96,88,Kasus,Tahunan,Kepolisian Republik Indonesia Daerah
+17,Ketentraman Ketertiban Umum dan Perlindungan Masyarakat,Jumlah Kawasan Rawan banjir,12,1,22,74,22,74,3,72,n/a,n/a,n/a,Kecamatan,Tahunan,Badan Penanggulangan Bencana Daerah
+18,Data Vertikal Badan Meteorologi Klimatologi dan Geofisika,Rata Rata Curah Hujan,n/a,n/a,165.41,299.40,239.58,157.33,155.83,227.36,207.40,272.60,122.20,mm,Tahunan,Stasiun Klimatologi Yogyakarta
